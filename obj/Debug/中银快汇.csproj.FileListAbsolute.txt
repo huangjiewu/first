@@ -1,0 +1,11 @@
+D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\KuaiHui.exe.config
+D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\KuaiHui.exe
+D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\KuaiHui.pdb
+D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\中银快汇.csprojResolveAssemblyReference.cache
+D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\中银快汇.csproj.GenerateResource.Cache
+D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\KuaiHui.exe
+D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\KuaiHui.pdb

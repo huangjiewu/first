@@ -1,0 +1,4 @@
+2019-09-14 12:24:41: 数据库:在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: TCP Provider, error: 0 - 等待的操作过时。)
+2019-09-14 12:29:06: 数据库:在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: TCP Provider, error: 0 - 等待的操作过时。)
+2019-09-14 13:38:29: 充值:执行超时已过期。完成操作之前已超时或服务器未响应。 
+2019-09-14 13:40:05: error:https://excashier.alipay.com/home/error.htm?webBundle=home&errorCode=PAYORDER_NOT_EXIST&exception_marking=extcashier-02-001-PAY_ORDER_NOT_EXIST:extcashier-02-001-%CA%D5%D2%F8̨%B6%A9%B5%A5%B2%BB%B4%E6%D4%DA

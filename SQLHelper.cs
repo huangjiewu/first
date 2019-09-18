@@ -15,7 +15,7 @@ namespace WindowsFormsApplication1
         // 数据连接池 
         private SqlConnection con;
         /// <summary> 
-        /// 返回数据库连接字符串 
+        /// 返回数据库连接字符串,, 
         /// </summary> 
         /// <returns></returns> 
         public static String GetSqlConnection()

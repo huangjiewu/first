@@ -9,3 +9,5 @@ D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\
 D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\中银快汇.csproj.GenerateResource.Cache
 D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\KuaiHui.exe
 D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\KuaiHui.pdb
+D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\log4net.dll
+D:\www\df\支付宝\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\log4net.xml
